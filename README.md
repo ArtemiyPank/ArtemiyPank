@@ -23,8 +23,8 @@ I am a passionate software developer based in Tel Aviv, Israel, with a strong ba
 
 ## 📈 GitHub Stats
 
-![Artemiy's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ArtemiyPank&show_icons=true&theme=default)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ArtemiyPank&layout=compact&theme=default)
+![GitHub Stats](https://github-stats-evirunurm.vercel.app/api/stats.js?username=ArtemiyPank)
+![Top Languages](https://github-stats-evirunurm.vercel.app/api/languages.js?username=ArtemiyPank)
 
 ## 📂 Featured Projects
 
