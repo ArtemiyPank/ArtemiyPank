@@ -1,6 +1,6 @@
-# 👋 Welcome to Artemiy Pankratov's GitHub Profile
+# Artemiy Pankratov's GitHub Profile
 
-## 💼 About Me
+## About Me
 
 I am a passionate software developer based in Tel Aviv, Israel, with a strong background in full-stack development. My expertise spans across various programming languages and technologies, enabling me to build robust and scalable applications.
 
@@ -21,12 +21,12 @@ I am a passionate software developer based in Tel Aviv, Israel, with a strong ba
 ![ASP.NET](https://img.shields.io/badge/-ASP.NET-512BD4?style=flat&logo=dotnet)
 ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=postgresql)
 
-## 📈 GitHub Stats
+## GitHub Stats
 
 ![GitHub Stats](https://github-stats-evirunurm.vercel.app/api/stats.js?username=ArtemiyPank)
 ![Top Languages](https://github-stats-evirunurm.vercel.app/api/languages.js?username=ArtemiyPank)
 
-## 📂 Featured Projects
+## Featured Projects
 
 ### 🎻 [orchestra-website](https://github.com/ArtemiyPank/orchestra-website)
 Multilingual website for the Atid Raziel School Orchestra in Israel.
